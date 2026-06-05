@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms in html</title>
+</head>
+<body>
+    <h2>Forms in html</h2>
+    <form action="">
+        <label for="fname">First Name:</label>
+        <input id="fname" name="fname" placeholder="Enter first name" type="text" minlength="5" maxlength="12" required>
+
+        <label for="mname">Middle Name:</label>
+        <input id="mname" name="mname" placeholder="Enter middle name" type="text">
+
+        <label for="lname">Last name:</label>
+        <input id="lname" name="lname" placeholder="Enter last name" type="text">
+
+        <br><br>
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" value="18">
+
+        <br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" value="example@email.com">
+
+        <br><br>
+        <label for="doj">Date Of Joining:</label>
+        <input type="date" id="doj" name="doj" value="2026-01-01">
+
+        <br><br>
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" value="Password123"> 
+
+        <p>Enter Shirt Size:</p>
+        <input value="small" type="radio" name="shirtsize" id="small"><label for="small">small size</label>
+        <input type="radio" name="shirtsize" id="Medium" value="medium" checked><label for="Medium">Medium size</label>
+        <input type="radio" name="shirtsize" id="large" value="large"><label for="large">large size</label>
+
+        <br><br>
+
+        <p>select the known languages:</p>
+        <input type="checkbox" name="lang" id="Hindi" value="Hindi" checked><label for="Hindi">Hindi</label>
+        <input type="checkbox" name="lang" id="Kanada" value="Kanada"><label for="Kanada">Kanada</label>
+        <input type="checkbox" name="lang" id="English" value="English"><label for="English">English</label>
+        <input type="checkbox" name="lang" id="Telgu" value="Telgu"><label for="Telgu">Telgu</label>
+
+
+        <br><br>
+
+        <label for="clr">please select the color for your shirt</label>
+        <input type="color" id="clr" name="clr" value="#0000ff">
+
+        <br><br>
+        <label for="paymentoption">Please select the payment method</label>
+        <select id="paymentoption">
+            <option value="gpay">gpay</option>
+            <option value="paytm">paytm</option>
+            <option value="navi">navi</option>
+        </select>
+
+        <br><br>
+        <label for="">Please enter your valuable feeaback</label>
+        <!-- input type text -->
+         <textarea id="cmts" name="comments" rows="9" cols="28" placeholder="Enter your feedback">Good experience</textarea>
+
+        <br><br>
+
+        <input type="reset">
+        <input type="submit">
+  
+    </form>
+</body> 
+</html> 
