@@ -2,55 +2,59 @@
 
 # 🚀 IIT_DELHI_MERN_STACK
 
-### From HTML Beginner to Full Stack MERN Developer
+### From Beginner to Full Stack MERN Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Web+Development...;Building+Projects...;Exploring+MERN+Stack...;Practicing+Every+Day...;Growing+One+Commit+At+A+Time..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Learning+Web+Development...;Building+Projects...;Mastering+MERN+Stack...;Practicing+Every+Day...;One+Commit+At+A+Time...;Future+Full+Stack+Developer..." />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=viraj1737&label=Repository+Visitors&color=blue&style=for-the-badge)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/viraj1737/IIT_DELHI_MERN_STACK?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/viraj1737/IIT_DELHI_MERN_STACK?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/viraj1737/IIT_DELHI_MERN_STACK?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 About This Repository
+# 🎯 About This Repository
 
-Welcome to my Web Development and MERN Stack learning repository.
+Welcome to my personal Web Development and MERN Stack learning repository.
 
 This repository is not a single project.
 
-Instead, it serves as a complete learning workspace where I:
+Instead, it is my complete development workspace where I learn, practice, experiment, and build projects while documenting my journey from a beginner to a Full Stack MERN Developer.
 
-- Learn new concepts
-- Practice coding
-- Build mini projects
-- Experiment with ideas
-- Store assignments
-- Explore modern web technologies
-- Track my growth as a developer
-
-Every commit in this repository represents progress in my journey toward becoming a Full Stack MERN Developer.
+Every file, project, experiment, and commit in this repository represents a step forward in my learning journey.
 
 ---
 
-## 👨‍💻 Developer
+# 👨‍💻 Developer
 
-### Viraj Kumar
+## Viraj Kumar
 
-B.Tech Student | Aspiring Full Stack Developer
+🎓 B.Tech Student
 
-Currently focused on:
+💻 Aspiring Full Stack Developer
 
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-- Responsive Web Design
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+🚀 Passionate About Web Development
+
+📚 Currently Learning MERN Stack
 
 ---
 
-# 🛣 Learning Roadmap
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+
+</div>
+
+---
+
+# 🛣️ MERN Learning Roadmap
 
 ## Phase 1 — Frontend Fundamentals
 
@@ -66,10 +70,10 @@ Currently focused on:
 ### CSS
 
 - Selectors
+- Box Model
 - Flexbox
-- Grid
+- CSS Grid
 - Animations
-- Transitions
 - Responsive Design
 
 ### JavaScript
@@ -80,14 +84,14 @@ Currently focused on:
 - Objects
 - DOM Manipulation
 - Events
-- Async JavaScript
 - APIs
+- Async JavaScript
 
 ---
 
 ## Phase 2 — Frontend Development
 
-### React
+### React.js
 
 - Components
 - Props
@@ -102,9 +106,9 @@ Currently focused on:
 
 ### Node.js
 
-- Server Fundamentals
 - Modules
 - NPM
+- Server Fundamentals
 
 ### Express.js
 
@@ -127,12 +131,11 @@ Currently focused on:
 
 ## Phase 5 — Full Stack MERN
 
-Building complete applications using:
-
-- MongoDB
-- Express.js
-- React.js
-- Node.js
+- Authentication Systems
+- Complete MERN Applications
+- Dashboard Projects
+- API Development
+- Deployment
 
 ---
 
@@ -151,134 +154,217 @@ IIT_DELHI_MERN_STACK
 ├── Assignments
 ├── Mini Projects
 ├── Experiments
-└── Learning Notes
+├── Learning Notes
+└── Future MERN Projects
 ```
 
 ---
 
 # 💡 What You'll Find Here
 
-This repository contains:
+### Practice Code
 
-✅ Practice Programs
+- HTML Exercises
+- CSS Experiments
+- JavaScript Programs
 
-✅ HTML Forms
+### Learning Projects
 
-✅ Assignments
+- Forms
+- Landing Pages
+- UI Components
+- Responsive Layouts
 
-✅ Learning Notes
+### Development Experiments
 
-✅ Mini Projects
+- New Concepts
+- Testing Features
+- Code Snippets
 
-✅ UI Experiments
+### Future Additions
 
-✅ Git & GitHub Practice
-
-✅ MERN Stack Learning Resources
-
-✅ Future Full Stack Projects
-
----
-
-# 🛠 Tech Stack
-
-## Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- React
-
-## Backend
-
-- Node.js
-- Express.js
-
-## Database
-
-- MongoDB
-
-## Tools
-
-- VS Code
-- Git
-- GitHub
+- React Applications
+- Backend APIs
+- Full Stack Projects
+- Portfolio Website
 
 ---
 
-# 📈 Current Progress
+# 📈 Learning Progress
 
-| Topic | Status |
-|---------|---------|
-| HTML | ✅ Completed Basics |
-| Forms | ✅ Practicing |
-| CSS | 🔄 Learning |
-| JavaScript | 🔄 Learning |
-| Git | 🔄 Learning |
-| GitHub | 🔄 Learning |
-| React | ⏳ Upcoming |
-| Node.js | ⏳ Upcoming |
-| MongoDB | ⏳ Upcoming |
-| MERN Projects | ⏳ Upcoming |
+```text
+HTML         ██████████ 100%
+CSS          ████████░░ 80%
+JavaScript   ██████░░░░ 60%
+Git          ███████░░░ 70%
+GitHub       ███████░░░ 70%
+React        ██░░░░░░░░ 20%
+Node.js      █░░░░░░░░░ 10%
+MongoDB      ░░░░░░░░░░ 0%
+MERN Stack   ░░░░░░░░░░ 0%
+```
+
+---
+
+# 🚀 Current Mission
+
+- Master HTML & CSS
+- Improve JavaScript Skills
+- Learn Git & GitHub Properly
+- Build Real Projects
+- Start React Development
+- Learn Backend Development
+- Become Full Stack MERN Developer
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viraj1737&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj1737&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=viraj1737&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 🎓 Why This Repository Exists
 
-As a student, I wanted a single place where I could:
+This repository acts as my personal coding laboratory.
 
-- Store all my practice code
-- Track learning progress
-- Build consistency
-- Create a portfolio of work
-- Document my developer journey
+Here I:
 
-This repository acts as my digital notebook and coding laboratory.
+✅ Learn New Concepts
 
----
+✅ Practice Programming
 
-# 🚀 Future Plans
+✅ Build Projects
 
-- Portfolio Website
-- React Projects
-- Full Stack MERN Applications
-- Authentication Systems
-- REST APIs
-- Database Projects
-- Deployment Projects
-- Open Source Contributions
+✅ Experiment With Ideas
+
+✅ Improve Problem Solving
+
+✅ Track My Progress
+
+✅ Document My Learning Journey
 
 ---
 
-# 📊 GitHub Goals
+# 🏆 Goals
 
-- Consistent Commits
-- Clean Code
-- Better Project Structure
-- Real World Projects
-- Open Source Learning
+### Short-Term Goals
+
+- Complete HTML & CSS
+- Strengthen JavaScript Fundamentals
+- Build Responsive Websites
+
+### Mid-Term Goals
+
+- Learn React.js
+- Learn Node.js
+- Learn MongoDB
+- Build MERN Applications
+
+### Long-Term Goals
+
+- Become Full Stack Developer
+- Contribute To Open Source
+- Build Real World Projects
+- Secure Software Development Opportunities
 
 ---
 
-# ⭐ If You Visit This Repository
+# 📚 Learning Resources
 
-Feel free to:
+Some amazing resources helping me throughout this journey:
 
-- Explore the code
-- Follow my journey
-- Suggest improvements
-- Share learning resources
+- MDN Web Docs
+- JavaScript.info
+- React Documentation
+- Node.js Documentation
+- Express Documentation
+- MongoDB Documentation
+- GitHub Documentation
 
-Every great developer starts somewhere.
+---
 
-This repository is where my journey begins.
+# 💭 Developer Mindset
+
+> "Every expert was once a beginner."
+>
+> "Every professional was once an amateur."
+>
+> "Every great developer started with their first line of code."
+
+---
+
+# 🌟 Repository Highlights
+
+✅ Beginner Friendly
+
+✅ Continuous Updates
+
+✅ Practical Learning
+
+✅ Hands-On Coding
+
+✅ MERN Stack Journey
+
+✅ Real Development Experience
+
+---
+
+# 📅 Current Status
+
+```diff
++ Learning Daily
++ Building Consistently
++ Improving Step By Step
++ Growing One Commit At A Time
+```
+
+---
+
+# 🤝 Contributions
+
+This repository is primarily maintained as a personal learning repository.
+
+Suggestions, feedback, and improvements are always welcome.
+
+---
+
+# ⭐ Support
+
+If you find this repository useful:
+
+⭐ Star The Repository
+
+🍴 Fork The Repository
+
+👨‍💻 Follow My Development Journey
+
+🚀 Grow Together
 
 ---
 
 <div align="center">
 
-### 🚀 Learning • Building • Improving • Growing
+## 🚀 Learning • Building • Improving • Growing
 
-Made with ❤️ by **Viraj Kumar**
+### Made with ❤️ by Viraj Kumar
+
+### Future Full Stack MERN Developer
 
 </div>
