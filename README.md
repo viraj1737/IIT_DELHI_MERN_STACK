@@ -1,18 +1,20 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
+
 # 🚀 IIT_DELHI_MERN_STACK
 
 ### From Beginner to Full Stack MERN Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Learning+Web+Development...;Building+Projects...;Mastering+MERN+Stack...;Practicing+Every+Day...;One+Commit+At+A+Time...;Future+Full+Stack+Developer..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Learning+Web+Development...;Building+Projects...;Mastering+MERN+Stack...;Exploring+New+Technologies...;Practicing+Every+Day...;Future+Full+Stack+Developer..." />
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=viraj1737&label=Repository+Visitors&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=viraj1737&label=Visitors&style=for-the-badge)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/viraj1737/IIT_DELHI_MERN_STACK?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/viraj1737/IIT_DELHI_MERN_STACK?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/viraj1737/IIT_DELHI_MERN_STACK?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/viraj1737/IIT_DELHI_MERN_STACK?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/viraj1737/IIT_DELHI_MERN_STACK?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/viraj1737/IIT_DELHI_MERN_STACK?style=for-the-badge)
 
 </div>
 
@@ -20,15 +22,21 @@
 
 # 🎯 About This Repository
 
-Welcome to my personal Web Development and MERN Stack learning repository.
+Welcome to my personal **Web Development & MERN Stack Learning Repository**.
 
-This repository is not a single project.
+This repository is my coding playground, learning notebook, experiment lab, project collection, and growth tracker.
 
-Instead, it is my complete development workspace where I learn, practice, experiment, and build projects while documenting my journey from a beginner to a Full Stack MERN Developer.
+Here I learn, practice, experiment, break things, fix things, build projects, and continuously improve my development skills.
 
-Every file, project, experiment, and commit in this repository represents a step forward in my learning journey.
+Every commit represents progress.
+
+Every project represents learning.
+
+Every line of code represents growth.
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-7c6c9b0e-5f52-4f0c-8f4f-3a1f3e0f4f43.gif">
 
 # 👨‍💻 Developer
 
@@ -38,9 +46,11 @@ Every file, project, experiment, and commit in this repository represents a step
 
 💻 Aspiring Full Stack Developer
 
-🚀 Passionate About Web Development
+🚀 MERN Stack Learner
 
-📚 Currently Learning MERN Stack
+📚 Passionate About Web Technologies
+
+🔥 Consistent Builder
 
 ---
 
@@ -54,44 +64,20 @@ Every file, project, experiment, and commit in this repository represents a step
 
 ---
 
-# 🛣️ MERN Learning Roadmap
+# 🛣️ MERN Stack Roadmap
 
-## Phase 1 — Frontend Fundamentals
+## 🌐 Frontend
 
-### HTML
-
-- Semantic Tags
-- Forms
-- Tables
-- Lists
-- Media Elements
-- Accessibility
-
-### CSS
-
-- Selectors
-- Box Model
-- Flexbox
-- CSS Grid
-- Animations
+- HTML5
+- CSS3
 - Responsive Design
-
-### JavaScript
-
-- Variables
-- Functions
-- Arrays
-- Objects
+- Flexbox
+- Grid
+- JavaScript
 - DOM Manipulation
-- Events
 - APIs
-- Async JavaScript
 
----
-
-## Phase 2 — Frontend Development
-
-### React.js
+## ⚛️ React
 
 - Components
 - Props
@@ -100,44 +86,29 @@ Every file, project, experiment, and commit in this repository represents a step
 - Routing
 - API Integration
 
----
+## 🖥 Backend
 
-## Phase 3 — Backend Development
-
-### Node.js
-
-- Modules
-- NPM
-- Server Fundamentals
-
-### Express.js
-
-- Routing
-- Middleware
+- Node.js
+- Express.js
 - REST APIs
+- Authentication
 
----
+## 🗄 Database
 
-## Phase 4 — Database
-
-### MongoDB
-
-- CRUD Operations
-- Collections
-- Documents
+- MongoDB
 - Mongoose
+- CRUD Operations
 
----
+## 🚀 Full Stack
 
-## Phase 5 — Full Stack MERN
-
+- MERN Applications
 - Authentication Systems
-- Complete MERN Applications
-- Dashboard Projects
-- API Development
+- Dashboards
 - Deployment
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-7c6c9b0e-5f52-4f0c-8f4f-3a1f3e0f4f43.gif">
 
 # 📂 Repository Structure
 
@@ -147,46 +118,39 @@ IIT_DELHI_MERN_STACK
 ├── HTML Practice
 ├── CSS Practice
 ├── JavaScript Practice
-├── React Projects
-├── NodeJS Projects
-├── MongoDB Practice
 ├── Forms
 ├── Assignments
-├── Mini Projects
 ├── Experiments
+├── Mini Projects
 ├── Learning Notes
-└── Future MERN Projects
+├── React Projects
+├── Backend Projects
+└── Future MERN Applications
 ```
 
 ---
 
 # 💡 What You'll Find Here
 
-### Practice Code
+✅ HTML Practice
 
-- HTML Exercises
-- CSS Experiments
-- JavaScript Programs
+✅ CSS Experiments
 
-### Learning Projects
+✅ JavaScript Programs
 
-- Forms
-- Landing Pages
-- UI Components
-- Responsive Layouts
+✅ Forms & Tables
 
-### Development Experiments
+✅ Assignments
 
-- New Concepts
-- Testing Features
-- Code Snippets
+✅ Mini Projects
 
-### Future Additions
+✅ UI Components
 
-- React Applications
-- Backend APIs
-- Full Stack Projects
-- Portfolio Website
+✅ Learning Notes
+
+✅ Git & GitHub Practice
+
+✅ MERN Stack Journey
 
 ---
 
@@ -209,12 +173,12 @@ MERN Stack   ░░░░░░░░░░ 0%
 # 🚀 Current Mission
 
 - Master HTML & CSS
-- Improve JavaScript Skills
-- Learn Git & GitHub Properly
-- Build Real Projects
+- Build Responsive Websites
+- Learn JavaScript Deeply
 - Start React Development
 - Learn Backend Development
-- Become Full Stack MERN Developer
+- Build Full Stack Projects
+- Become a MERN Stack Developer
 
 ---
 
@@ -240,73 +204,33 @@ MERN Stack   ░░░░░░░░░░ 0%
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=viraj1737&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
 # 🎓 Why This Repository Exists
 
-This repository acts as my personal coding laboratory.
+This repository serves as my:
 
-Here I:
+📚 Learning Notebook
 
-✅ Learn New Concepts
+💻 Coding Playground
 
-✅ Practice Programming
+🧪 Experiment Lab
 
-✅ Build Projects
+🚀 Project Collection
 
-✅ Experiment With Ideas
+📈 Growth Tracker
 
-✅ Improve Problem Solving
+🎯 Developer Journey
 
-✅ Track My Progress
-
-✅ Document My Learning Journey
-
----
-
-# 🏆 Goals
-
-### Short-Term Goals
-
-- Complete HTML & CSS
-- Strengthen JavaScript Fundamentals
-- Build Responsive Websites
-
-### Mid-Term Goals
-
-- Learn React.js
-- Learn Node.js
-- Learn MongoDB
-- Build MERN Applications
-
-### Long-Term Goals
-
-- Become Full Stack Developer
-- Contribute To Open Source
-- Build Real World Projects
-- Secure Software Development Opportunities
-
----
-
-# 📚 Learning Resources
-
-Some amazing resources helping me throughout this journey:
-
-- MDN Web Docs
-- JavaScript.info
-- React Documentation
-- Node.js Documentation
-- Express Documentation
-- MongoDB Documentation
-- GitHub Documentation
-
----
-
-# 💭 Developer Mindset
-
-> "Every expert was once a beginner."
->
-> "Every professional was once an amateur."
->
-> "Every great developer started with their first line of code."
+I created this repository to document everything I learn while becoming a Full Stack Developer.
 
 ---
 
@@ -314,15 +238,51 @@ Some amazing resources helping me throughout this journey:
 
 ✅ Beginner Friendly
 
-✅ Continuous Updates
-
 ✅ Practical Learning
 
-✅ Hands-On Coding
+✅ Continuous Updates
+
+✅ Real Coding Practice
 
 ✅ MERN Stack Journey
 
-✅ Real Development Experience
+✅ Hands-On Development
+
+---
+
+# 🏆 Future Goals
+
+### Short-Term
+
+- Complete HTML & CSS
+- Improve JavaScript
+- Build Responsive Websites
+
+### Mid-Term
+
+- Learn React
+- Learn Node.js
+- Learn MongoDB
+- Build MERN Projects
+
+### Long-Term
+
+- Become Full Stack Developer
+- Build SaaS Products
+- Contribute to Open Source
+- Create Real-World Applications
+
+---
+
+# 💭 Developer Mindset
+
+> "Every expert was once a beginner."
+
+> "Every professional was once an amateur."
+
+> "Every great developer started with their first line of code."
+
+> "Consistency beats talent when talent doesn't work consistently."
 
 ---
 
@@ -333,29 +293,30 @@ Some amazing resources helping me throughout this journey:
 + Building Consistently
 + Improving Step By Step
 + Growing One Commit At A Time
++ Future Full Stack Developer
 ```
 
 ---
 
 # 🤝 Contributions
 
-This repository is primarily maintained as a personal learning repository.
+Suggestions, ideas, improvements, and feedback are always welcome.
 
-Suggestions, feedback, and improvements are always welcome.
+Feel free to explore the repository and follow my learning journey.
 
 ---
 
 # ⭐ Support
 
-If you find this repository useful:
+If you like this repository:
 
-⭐ Star The Repository
+⭐ Star the Repository
 
-🍴 Fork The Repository
+🍴 Fork the Repository
 
-👨‍💻 Follow My Development Journey
+🚀 Follow My Journey
 
-🚀 Grow Together
+💡 Share Suggestions
 
 ---
 
@@ -366,5 +327,7 @@ If you find this repository useful:
 ### Made with ❤️ by Viraj Kumar
 
 ### Future Full Stack MERN Developer
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer"/>
 
 </div>
