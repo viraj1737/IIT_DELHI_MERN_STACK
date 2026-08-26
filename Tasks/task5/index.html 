@@ -3,48 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Laundry Service</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- nav bar -->
-     <nav>
-        <div class = "logo">Logo</div>
-        
+
+    <!-- Navbar -->
+
+    <nav>
+
+        <div class="logo">Logo</div>
+
         <ul class="menu">
             <li><a href="#">Home</a></li>
             <li><a href="#">Services</a></li>
             <li><a href="#">About Us</a></li>
             <li><a href="#">Contact Us</a></li>
         </ul>
-        <div class="username">Username</div>
-     </nav>
 
-     <!-- hero section -->
-      <section class="hero">
+        <div class="username">Username</div>
+
+    </nav>
+
+    <!-- Hero Section -->
+
+    <section class="hero">
+
         <div class="left">
+
             <h1>
-                Revitalize your <br>
-                clothes with expert <br>
-                <span>Laundary Services</span>
+                Revitalize Your <br>
+                Clothes with Expert <br>
+                <span>Laundry Services!</span>
             </h1>
 
             <p>
                 From premium dry cleaning to swift wash and fold,
-                we deliver care and convenience.Schedule and 
-                rediscover the freshness of your  clothes today!
-
+                we deliver care and convenience. Schedule a pickup
+                and rediscover the freshness of your clothes today!
             </p>
 
-            <button>Book a service today!</button>
+            <button>Book a Service Today!</button>
+
         </div>
 
         <div class="right">
-            <img src="laundary.jpeg" alt="washing machine">
+
+            <img src="laundary.jpeg" alt="Laundry">
+
         </div>
-      </section>
 
-
+    </section>
 
 </body>
-</html> 
+</html>
