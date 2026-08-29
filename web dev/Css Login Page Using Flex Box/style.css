@@ -6,11 +6,29 @@
 
 .container{
     border: 2px solid red;
+    height: 700px;
     display: grid;
+    /* gap: 10px ; */
+    row-gap: 18px;
+    column-gap: 10px;
+    /* grid-template-columns:repeat(5,auto); */
+    grid-template-columns:200px 200px 200px;
+    /* justify-content: baseline;  */
+    /* align-content: start; */
+    
 }
 
 .box{
     border: 2px solid green;
     padding: 12px;
     
+}
+
+#box-1{
+    background-color: bisque;
+    /* justify-self: center; */
+    /* align-self:center; */
+    /* grid-column-start: 1; */
+    /* grid-column-end: 1; */
+    grid-column: 1 / 4;
 }
