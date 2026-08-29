@@ -11,8 +11,7 @@
     <!-- Navbar -->
 
     <nav>
-
-        <div class="logo">Logo</div>
+        <div class="logo">LOGO</div>
 
         <ul class="menu">
             <li><a href="#">Home</a></li>
@@ -21,8 +20,7 @@
             <li><a href="#">Contact Us</a></li>
         </ul>
 
-        <div class="username">Username</div>
-
+        <div class="username">Viraj</div>
     </nav>
 
     <!-- Hero Section -->
@@ -38,19 +36,17 @@
             </h1>
 
             <p>
-                From premium dry cleaning to swift wash and fold,
-                we deliver care and convenience. Schedule a pickup
-                and rediscover the freshness of your clothes today!
+                From premium dry cleaning to quick wash and fold,
+                we provide professional laundry services with free
+                pickup and delivery at your doorstep.
             </p>
 
-            <button>Book a Service Today!</button>
+            <button>Book a Service Today</button>
 
         </div>
 
         <div class="right">
-
-            <img src="laundary.jpeg" alt="Laundry">
-
+            <img src="laundary.jpeg" alt="Laundry Service">
         </div>
 
     </section>
